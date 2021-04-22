@@ -19,6 +19,7 @@ IPZ-12 https://drive.google.com/drive/folders/1RgLDIHwUvRHo0nm89Sad-3Hd27k0bT1t?
 IPZ-13 https://drive.google.com/drive/folders/1SroLP-G7XqnagHca1eN_5xvq5ABkbzDb?usp=sharing
 
 Прямий ефір про правила, конкурси, етапи та терміни проведення Міжнародної студентської олімпіади «IT-Universe»-2021
+
 22 квітня о 20:00 за посиланням: https://www.facebook.com/events/138212101605243/
 
 Нараховуються додаткові бали за участь в олімпіаді «IT-Universe»-2021 !!!
