@@ -20,7 +20,7 @@ IPZ-13 https://drive.google.com/drive/folders/1SroLP-G7XqnagHca1eN_5xvq5ABkbzDb?
 Посилання на реєстрацію https://it-universe.org/ua/registrationST.php
 
 Теми Agile-проектів викладені в папці Agile_Project_for_OOP.
-Файл "темы проектів ООП 2021 1курс.docx"
+Файл "темы проектів ООП 2021 1курс.docx". 
 Також цей файл знаходиться на Google drive за посиланням 
 https://drive.google.com/file/d/1AFtqvhWiOD1OcTV_keE9x0FX_Y-tlACs/view?usp=sharing
 
