@@ -23,4 +23,5 @@ IPZ-13 https://drive.google.com/drive/folders/1SroLP-G7XqnagHca1eN_5xvq5ABkbzDb?
 Файл "темы проектів ООП 2021 1курс.docx"
 Також цей файл знаходиться на Google drive за посиланням 
 https://drive.google.com/file/d/1AFtqvhWiOD1OcTV_keE9x0FX_Y-tlACs/view?usp=sharing
+
 Необхідно до 4 травня вписати в колонку "ПІБ студента, група" свої прізвища, засвідчивши своє бажання виконувати вибрану тему.  
