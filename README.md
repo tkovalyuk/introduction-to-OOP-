@@ -19,4 +19,5 @@ IPZ-13 https://drive.google.com/drive/folders/1SroLP-G7XqnagHca1eN_5xvq5ABkbzDb?
 Нараховуються додаткові бали за участь в олімпіаді «IT-Universe»-2021 !!!   https://it-universe.org/
 Посилання на реєстрацію https://it-universe.org/ua/registrationST.php
 
-Теми Agile-проектів викладені в папці 
+Теми Agile-проектів викладені в папці Agile_Project_for_OOP.
+Файл "темы проектів ООП 2021 1курс.docx"
